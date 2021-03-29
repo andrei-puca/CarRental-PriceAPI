@@ -1,0 +1,17 @@
+C:\Users\Andrei\source\repos\PriceAPI\PriceAPI.BL\bin\Debug\netcoreapp3.1\PriceAPI.BL.deps.json
+C:\Users\Andrei\source\repos\PriceAPI\PriceAPI.BL\bin\Debug\netcoreapp3.1\PriceAPI.BL.dll
+C:\Users\Andrei\source\repos\PriceAPI\PriceAPI.BL\bin\Debug\netcoreapp3.1\PriceAPI.BL.pdb
+C:\Users\Andrei\source\repos\PriceAPI\PriceAPI.BL\bin\Debug\netcoreapp3.1\PriceAPI.Common.dll
+C:\Users\Andrei\source\repos\PriceAPI\PriceAPI.BL\bin\Debug\netcoreapp3.1\PriceAPI.DAL.dll
+C:\Users\Andrei\source\repos\PriceAPI\PriceAPI.BL\bin\Debug\netcoreapp3.1\PriceAPI.Common.pdb
+C:\Users\Andrei\source\repos\PriceAPI\PriceAPI.BL\bin\Debug\netcoreapp3.1\PriceAPI.DAL.pdb
+C:\Users\Andrei\source\repos\PriceAPI\PriceAPI.BL\obj\Debug\netcoreapp3.1\PriceAPI.BL.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\PriceAPI\PriceAPI.BL\obj\Debug\netcoreapp3.1\staticwebassets\PriceAPI.BL.StaticWebAssets.Manifest.cache
+C:\Users\Andrei\source\repos\PriceAPI\PriceAPI.BL\obj\Debug\netcoreapp3.1\staticwebassets\PriceAPI.BL.StaticWebAssets.xml
+C:\Users\Andrei\source\repos\PriceAPI\PriceAPI.BL\obj\Debug\netcoreapp3.1\PriceAPI.BL.AssemblyInfoInputs.cache
+C:\Users\Andrei\source\repos\PriceAPI\PriceAPI.BL\obj\Debug\netcoreapp3.1\PriceAPI.BL.AssemblyInfo.cs
+C:\Users\Andrei\source\repos\PriceAPI\PriceAPI.BL\obj\Debug\netcoreapp3.1\PriceAPI.BL.RazorTargetAssemblyInfo.cache
+C:\Users\Andrei\source\repos\PriceAPI\PriceAPI.BL\obj\Debug\netcoreapp3.1\PriceAPI.BL.csproj.CopyComplete
+C:\Users\Andrei\source\repos\PriceAPI\PriceAPI.BL\obj\Debug\netcoreapp3.1\PriceAPI.BL.dll
+C:\Users\Andrei\source\repos\PriceAPI\PriceAPI.BL\obj\Debug\netcoreapp3.1\PriceAPI.BL.pdb
+C:\Users\Andrei\source\repos\PriceAPI\PriceAPI.BL\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
